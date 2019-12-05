@@ -1,6 +1,6 @@
 # Comm
 
-Library for manage data (ASTM,XML,CVS,...) communication (RS232,TCP,HTTP,FILE,...).
+Library for manage data (ASTM, XML, CVS,...) communication (RS232, TCP, HTTP, FILE,...).
 
 ## Example
 
