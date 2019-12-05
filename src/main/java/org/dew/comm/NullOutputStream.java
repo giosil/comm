@@ -10,10 +10,10 @@ import java.io.*;
 public 
 class NullOutputStream extends OutputStream 
 {
-	/**
-	 * Implementazione vuota del metodo write
-	 * 
-	 * @param iByte byte
-	 */
-	public void write(int iByte) throws java.io.IOException {}
+  /**
+   * Implementazione vuota del metodo write
+   * 
+   * @param iByte byte
+   */
+  public void write(int iByte) throws java.io.IOException {}
 }
