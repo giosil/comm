@@ -4,8 +4,6 @@ import java.io.*;
 
 /**
  * Classe di utilita' utilizzata per annullare il log nei Driver ed Emulator.
- * 
- * @author <a href="mailto:silvestris@ised.it">Giorgio Silvestris</a>
  */
 public 
 class NullOutputStream extends OutputStream 
