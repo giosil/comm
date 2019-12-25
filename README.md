@@ -1,6 +1,6 @@
 # Comm
 
-Library to exchange (RS232, TCP, HTTP, ...) data (ASTM, XML, CVS, ...).
+Library to exchange (RS232, TCP, HTTP, ...) LIS data (ASTM, XML, CVS, ...).
 
 ## Example
 
